@@ -1,3 +1,5 @@
+#added comment 1
+
 class Employee:
     company_name = None  # static or class variable
     company_location = None
